@@ -3,6 +3,9 @@ Simple USD -> RUB converter
 
 **Installation**
 -
+
+https://hub.docker.com/repository/docker/tashunya/converter
+
 `docker pull tashunya/converter:latest`
 
 `docker run tashunya/converter:latest`
